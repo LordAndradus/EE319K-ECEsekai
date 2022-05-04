@@ -13,7 +13,7 @@ Joystick.c - Control the player character and their actions: Public
 
 MainGame.c - The main engine. Contains a map engine and a combat scenario engine: Private
 
-LoadImages.c - Load an image from the SD card, draw a character from a custom library, and integer to string conversions: Private
+LoadImages.c - Load an image from the SD card, draw a character from a custom library, and integer to string conversions: Public
 
 Math.c - Contains random number generation using a timer as the seed in addition to mathematical functions that been tested: Public
 
