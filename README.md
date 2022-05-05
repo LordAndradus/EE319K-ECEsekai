@@ -1,5 +1,5 @@
 # EE319K-ECEsekai
-EE319K Final Project (GAME) for JRPG engine - ALL of it is custom code, no rehashing or copy &amp; pasting - Exception of PLL.c & Startup.s
+EE319K Final Project (GAME) for JRPG engine - ALL of it is custom code, no rehashing or copy &amp; pasting - Exception of PLL.c & FlashProgram.c && Startup.s
 
 Format:
 File.(ext) - Short descriptor: Availability (Private: I have E-mailed copies of the password to the appropriate people. It is to their discretion on sharing the contents. I will only mark something as private as those files took the most work to implement, and you should really do the work yourself to fully understand the material.)
